@@ -1,0 +1,27 @@
+title: "Exodus"
+description: "Hide and Seek."
+url: "https://blog.m0dulo.xyz"
+baseurl: ""
+author: "m0dulo"
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+
+# Build settings
+theme: jekyll-theme-mdui
+markdown: kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+
+exclude:
+  - package.json
+  - node_modules
+  - gulpfile.js
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-mdui.gemspec
+  - LICENSE.txt
+  - README.md
+  - vendor

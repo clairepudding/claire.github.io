@@ -1,0 +1,17 @@
+- name: HOME
+  url: /
+  icon: home
+- name: EDITOR
+  url: /pages/editor.html
+  icon: "&#xe893;"
+- name: Evangelion-card
+  url: /pages/evangelion-card
+  icon: "&#xe893;"
+- name: FRIENDS
+  url: /pages/friends.html
+  icon: "&#xe8a3;"
+- name: ABOUT
+  url: "https://m0dulo.xyz"
+  icon: "&#xe893;"
+- name: navSearch
+  switch: true
